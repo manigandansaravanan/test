@@ -7,6 +7,8 @@ public class m1 {
 
 		
 		System.out.println("hi");
+		System.out.println("this is ronaldo");
+		System.out.println("im also football player");
 	}
 
 }
